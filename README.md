@@ -1,8 +1,6 @@
 # 🚀 Hey , I'm Prakash Kumar | Full-Stack Developer
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Prakash1185&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Prakash1185" />
-  <img src="https://img.shields.io/badge/Main_Stack-MERN-blue?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Web-orange?style=flat-square" />
 </p>
 
 ---
